@@ -30,6 +30,7 @@ Exemplos de Entrada e Saída:
 
 Entrada:
 - Digite sua idade: 10
+  
 Saída:
 - Entrada não permitida. Evento proibido para menores de 12 anos.
 
@@ -37,6 +38,7 @@ Saída:
 
 Entrada:
 - Digite sua idade: 15
+  
 Saída:
 - Entrada permitida somente com responsável.
 
@@ -44,5 +46,6 @@ Saída:
 
 Entrada:
 - Digite sua idade: 22
+  
 Saída:
 - Entrada liberada! Aproveite o evento.
