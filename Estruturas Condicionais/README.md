@@ -36,13 +36,13 @@ Saída:
 2. Exemplos para pessoas de 12 a 17 anos:
 
 Entrada:
--Digite sua idade: 15
+- Digite sua idade: 15
 Saída:
--Entrada permitida somente com responsável.
+- Entrada permitida somente com responsável.
 
 3. Exemplo para maiores de idade:
 
 Entrada:
--Digite sua idade: 22
+- Digite sua idade: 22
 Saída:
--Entrada liberada! Aproveite o evento.
+- Entrada liberada! Aproveite o evento.
