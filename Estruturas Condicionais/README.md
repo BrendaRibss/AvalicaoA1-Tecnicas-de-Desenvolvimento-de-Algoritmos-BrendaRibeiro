@@ -27,18 +27,21 @@ Como Executar o Programa:
 Exemplos de Entrada e Saída:
 
 1. Exemplo para menores de idade
+
 Entrada:
 - Digite sua idade: 10
 Saída:
 - Entrada não permitida. Evento proibido para menores de 12 anos.
 
 2. Exemplos para pessoas de 12 a 17 anos:
+
 Entrada:
 -Digite sua idade: 15
 Saída:
 -Entrada permitida somente com responsável.
 
 3. Exemplo para maiores de idade:
+
 Entrada:
 -Digite sua idade: 22
 Saída:
