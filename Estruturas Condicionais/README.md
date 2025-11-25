@@ -23,7 +23,8 @@ Como Executar o Programa:
 2. Baixe o arquivo ou abra pelo google colab.
 3. Coloque o código para rodar, para que seja requerido do usúarios as informações necessárias.
 
-Exemplos de Entrada e Saída:
+
+-Exemplos de Entrada e Saída:
 
 Exemplo para menores de idade:
 
