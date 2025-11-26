@@ -19,7 +19,7 @@ Faixa de Idade	Condição no Evento:
 
 Como Executar o Programa:
 
-1. Certifique-se de usar o vs code ou qualquer outro editor de código-fonte ( para alguns, será necessária a instalação do Python na versão mais recente).
+1. Certifique-se de usar o Visual Studio Code ou qualquer outro editor de código-fonte ( para alguns, será necessária a instalação do Python na versão mais recente).
 2. Baixe o arquivo.
 3. Coloque o código para rodar, para que seja requerido do usúarios as informações necessárias.
 
