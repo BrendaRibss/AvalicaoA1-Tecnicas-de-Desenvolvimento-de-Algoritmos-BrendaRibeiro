@@ -2,7 +2,7 @@
 
 Sistema de Verificação de Idade – Estruturas Condicionais em Python Este repositório contém um exercício prático sobre estruturas condicionais em Python, utilizando if, elif e else. O objetivo é treinar tomada de decisões no código com base na entrada do usuário.
 
-Explicação do Exercício: Crie um programa em Python que solicite a idade do usuário e determine se ele pode entrar em um evento.
+Explicação do Exercício: Crie um programa em Python que solicite a idade do usuário e determine se ele pode entrar em um evento ou não.
 
 O programa deve passar por estas três etapas:
 
@@ -93,7 +93,7 @@ FLUXOGRAMA:
 
 Esta pasta apresenta dois exercícios simples em Python para praticar estruturas de repetição: um utilizando for e outro utilizando while. Ambos os programas exibem apenas os números pares de 1 a 100.
 
--Exercício 1: Contador usando o for
+-Exercício 1: Contador usando o for, ondemostra os números pares ( de 0 a 100).
 O programa utiliza um loop for com a função range() para percorrer os números de 1 a 100. Dentro do loop, uma condição verifica se o número é par antes de exibi-lo.
 
 Como executar
@@ -146,7 +146,7 @@ FLUXOGRAMA:
                  └───────────┘
 
 
--Exercício 2: Contador com while
+-Exercício 2: Contador com while, onde mostrará os números pares, de 0 a 100. 
 Descrição
 
 Este programa utiliza a estrutura de repetição while para contar de 1 a 100. Assim como no exercício anterior, há uma condição para exibir apenas os números pares.
@@ -212,7 +212,8 @@ FLUXOGRAMA:
 
 *LISTAS*
 
-Cadastro de Alunos – Usando listas, em Python.
+Cadastro de Alunos – Onde o usuário precisará informar a idade dele, para que o programa veja se ele tem ou não permissão para acessar o evento. 
+Usando listas, em Python.
 
 Este projeto contém um programa simples em Python que permite ao usuário cadastrar nomes de alunos e, ao final, exibir a lista completa dos nomes inseridos.
 
@@ -303,7 +304,8 @@ FLUXOGRAMA:
 
 *Dicionários*
 
-Sistema de Cadastro de Produtos, usando dicionário e em Python
+Sistema de Cadastro de Produtos, onde o usuário precisará entrar com os dados ( nome do produto e valores) para que crie um dicionário. 
+Usando dicionário e em Python
 
 Este projeto apresenta um sistema simples de cadastro de produtos, onde cada item possui nome e preço, sendo armazenados em um dicionário do Python.
 Ao final, o programa exibe todos os produtos cadastrados com seus respectivos valores.
