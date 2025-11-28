@@ -8,7 +8,7 @@ Curso: Ciência da Computação ( 2° semestre)
 
 
 
-ESTRUTURAS CONDICIONAIS
+*ESTRUTURAS CONDICIONAIS*
 
 Sistema de Verificação de Idade – Estruturas Condicionais em Python Este repositório contém um exercício prático sobre estruturas condicionais em Python, utilizando if, elif e else. O objetivo é treinar tomada de decisões no código com base na entrada do usuário.
 
@@ -99,7 +99,7 @@ FLUXOGRAMA:
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-ESTRUTURAS DE REPETIÇÃO 
+*ESTRUTURAS DE REPETIÇÃO* 
 
 Esta pasta apresenta dois exercícios simples em Python para praticar estruturas de repetição: um utilizando for e outro utilizando while. Ambos os programas exibem apenas os números pares de 1 a 100.
 
@@ -220,7 +220,7 @@ FLUXOGRAMA:
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
-LISTAS
+*LISTAS*
 
 Cadastro de Alunos – Usando listas, em Python.
 
@@ -311,7 +311,7 @@ FLUXOGRAMA:
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Dicionários
+*Dicionários*
 
 Sistema de Cadastro de Produtos, usando dicionário e em Python
 
