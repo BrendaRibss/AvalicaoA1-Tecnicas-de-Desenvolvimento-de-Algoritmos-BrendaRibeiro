@@ -12,9 +12,9 @@ Exibir a mensagem apropriada de acordo com a regra:
 Regras: Faixa de Idade Condição no Evento:
 
 Menor de 12 anos: A entrada é proibida.
-12 a 17 anos: Entrada somente com responsável.
-18 ou mais anos: Entrada liberada.
-Como Executar o Programa:
+- 12 a 17 anos: Entrada somente com responsável.
+- 18 ou mais anos: Entrada liberada.
+- Como Executar o Programa:
 
 Como executar
 - Certifique-se de usar o Visual Studio Code ou qualquer outro editor de código-fonte ( para alguns, será necessária a instalação do Python na versão mais recente).
