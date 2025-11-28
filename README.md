@@ -1,6 +1,9 @@
 Avalição A1-
+
 Matéria: Técnicas de Desenvolvimento de Algoritmos
+
 Aluna: Brenda Ribeiro dos Santos
+
 Curso: Ciência da Computação ( 2° semestre)
 
 
