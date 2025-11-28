@@ -1,13 +1,3 @@
-Avalição A1-
-
-Matéria: Técnicas de Desenvolvimento de Algoritmos
-
-Aluna: Brenda Ribeiro dos Santos
-
-Curso: Ciência da Computação ( 2° semestre)
-
-
-
 *ESTRUTURAS CONDICIONAIS*
 
 Sistema de Verificação de Idade – Estruturas Condicionais em Python Este repositório contém um exercício prático sobre estruturas condicionais em Python, utilizando if, elif e else. O objetivo é treinar tomada de decisões no código com base na entrada do usuário.
