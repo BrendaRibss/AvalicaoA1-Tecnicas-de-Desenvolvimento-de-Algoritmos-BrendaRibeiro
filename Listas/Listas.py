@@ -5,10 +5,10 @@ alunos = []
 
 while True:
     # Solicita ao usuário que digite um nome de aluno
-    nome = input("Digite o nome do aluno (ou 'sair' para finalizar): ")
+    nome = input("Digite o nome do aluno ou 'exibir lista' para finalizar: ")
 
-    # Se o usuário digitar 'sair', o loop encerra
-    if nome.lower() == 'sair':
+    # Se o usuário digitar 'exibir lista', o loop encerra
+    if nome.lower() == 'exibir lista':
         break
 
     # Adiciona o nome digitado na lista
@@ -19,3 +19,4 @@ while True:
 print("\nLista de alunos cadastrados:")
 for aluno in alunos:
     print(f"- {aluno}")
+
