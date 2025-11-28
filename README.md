@@ -1,5 +1,9 @@
-# AvalicaoA1-Tecnicas-de-Desenvolvimento-de-Algoritmos-BrendaRibeiro
-Repositório destinado as trabalho referente à matéria Técnicas de Desenvolvimento de Algoritmos, matérima ministrada pela Professora Kadidja Valéria.
+Avalição A1-
+Matéria: Técnicas de Desenvolvimento de Algoritmos
+Aluna: Brenda Ribeiro dos Santos
+Curso: Ciência da Computação ( 2° semestre)
+
+
 
 ESTRUTURAS CONDICIONAIS
 
