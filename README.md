@@ -19,9 +19,12 @@ Menor de 12 anos: A entrada é proibida.
 18 ou mais anos: Entrada liberada.
 Como Executar o Programa:
 
-Certifique-se de usar o Visual Studio Code ou qualquer outro editor de código-fonte ( para alguns, será necessária a instalação do Python na versão mais recente).
-Baixe o arquivo.
-Coloque o código para rodar, para que seja requerido do usúarios as informações necessárias.
+Como executar
+- Certifique-se de usar o Visual Studio Code ou qualquer outro editor de código-fonte ( para alguns, será necessária a instalação do Python na versão mais recente).
+- Baixe o arquivo.
+- Coloque o código para rodar, para que seja requerido do usúarios as informações necessárias.
+
+  
 Exemplos de Entrada e Saída:
 
 Exemplo para menores de idade
@@ -66,11 +69,12 @@ Ps: Deverá exibir apenas números pares, caso exiba algum número ímpar, houve
 Descrição
 
 Este programa utiliza a estrutura de repetição while para contar de 1 a 100. Assim como no exercício anterior, há uma condição para exibir apenas os números pares.
-Como executar
 
-Certifique-se de usar o Visual Studio Code ou qualquer outro editor de código-fonte ( para alguns, será necessária a instalação do Python na versão mais recente).
-Baixe o arquivo.
-Coloque o código para rodar, para que seja requerido do usúarios as informações necessárias.
+Como executar
+- Certifique-se de usar o Visual Studio Code ou qualquer outro editor de código-fonte ( para alguns, será necessária a instalação do Python na versão mais recente).
+- Baixe o arquivo.
+- Coloque o código para rodar, para que seja requerido do usúarios as informações necessárias.
+- 
 Exemplo de saída:
 
 2 4 6 8 9 ... 100
@@ -82,3 +86,80 @@ Ps: Deverá exibir apenas números pares, caso exiba algum número ímpar, houve
 
 LISTAS
 
+Cadastro de Alunos – Usando listas, em Python.
+
+Este projeto contém um programa simples em Python que permite ao usuário cadastrar nomes de alunos e, ao final, exibir a lista completa dos nomes inseridos.
+
+Descrição do Programa
+
+O programa utiliza uma lista para armazenar os nomes digitados pelo usuário.
+O cadastro continua em um loop até que o usuário digite "exibir lista", momento em que o programa finaliza o cadastro e mostra todos os alunos registrados.
+
+Como o programa funciona
+- Cria uma lista vazia chamada alunos.
+- Pede ao usuário que digite um nome.
+- Cada nome é adicionado à lista.
+- O processo continua até o usuário digitar exibir lista.
+- Ao terminar, todos os nomes cadastrados são exibidos no console.
+
+Como executar
+- Certifique-se de usar o Visual Studio Code ou qualquer outro editor de código-fonte ( para alguns, será necessária a instalação do Python na versão mais recente).
+- Baixe o arquivo.
+- Coloque o código para rodar, para que seja requerido do usúarios as informações necessárias.
+
+  
+- Exemplo de entrada
+Digite o nome do aluno ou 'exibir lista' para finalizar: Ana
+Digite o nome do aluno ou 'exibir lista' para finalizar: Marcos
+Digite o nome do aluno ou 'exibir lista' para finalizar: Julia
+Digite o nome do aluno ou 'exibir lista' para finalizar: exibir lista
+
+- Saída esperada
+Lista de alunos cadastrados:
+- Ana
+- Marcos
+- Julia
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Dicionários
+
+Sistema de Cadastro de Produtos, usando dicionário e em Python
+
+Este projeto apresenta um sistema simples de cadastro de produtos, onde cada item possui nome e preço, sendo armazenados em um dicionário do Python.
+Ao final, o programa exibe todos os produtos cadastrados com seus respectivos valores.
+
+Objetivo do Exercício
+- Utilizar corretamente a estrutura dict();
+- Inserir e recuperar dados do dicionário;
+- Criar uma aplicação simples, clara e funcional em Python utilizando entrada de dados do usuário.
+
+Como o programa funciona
+- Um dicionário chamado produtos é criado para armazenar os itens no formato:
+{ nome_do_produto: preço }
+- O programa solicita continuamente:
+  Nome do produto
+  Preço do produto
+- O usuário pode encerrar digitando "nao".
+
+Ao final, todos os produtos cadastrados são exibidos.
+
+Como executar
+- Certifique-se de usar o Visual Studio Code ou qualquer outro editor de código-fonte ( para alguns, será necessária a instalação do Python na versão mais recente).
+- Baixe o arquivo.
+- Coloque o código para rodar, para que seja requerido do usúarios as informações necessárias.
+
+  
+Exemplo de entrada
+Digite o nome do produto ou 'sair' para finalizar: Arroz
+Digite o preço de 'Arroz': R$ 12.50
+
+Digite o nome do produto ou 'sair' para finalizar: Feijão
+Digite o preço de 'Feijão': R$ 9.80
+
+Digite o nome do produto ou 'nao' para finalizar: nao
+
+Saída esperada
+Lista de Produtos Cadastrados:
+- Arroz: R$ 12.50
+- Feijão: R$ 9.80
